@@ -3,7 +3,7 @@
 ## Code test
 ```bash
 acc new abcxxx
-g++ main.cpp && oj t
+make
 acc s
 ```
 
